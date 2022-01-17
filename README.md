@@ -1,2 +1,2 @@
-# fermahdd.github.io/index
+# fermahdd.github.io
 GitHub Pages
